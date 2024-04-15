@@ -1,5 +1,5 @@
 # <p align="center">📈 Stock Market from 0 to 2023 💸 </p>
-# <p align="center">![Pic](https://github.com/fpruitt22/StockMarket/edit/main/StockMarket.jpg)</p>
+# <p align="center">![Pic](StockMarket.jpg)</p>
 
 - **Business Request:** Provide the business with data on the American stock market. (NASDAQ & Dow Jones) 
 
