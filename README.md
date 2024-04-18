@@ -5,7 +5,7 @@
 
 **Requested Outcome:** Historical data of the US Stock Market from the start of each market till 2023. Include my stock data from ETrade and Fidelity (Bonus pts.)
 <p> A1 | Create a Tableau of this data set with the same title</p>
-- <p align="Left">Comparison of personal stock data vs. stock market (Graph of overall trend)</p>
+<p align="Left">Comparison of personal stock data vs. stock market (Graph of overall trend)</p>
 <p align="Left">Top stock in each market category</p>
 <p align="Left">Top 10 stocks</p>
 <p> A2 | Obtain personal Stock Market data from accounts inception till 2023 </p>
